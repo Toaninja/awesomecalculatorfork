@@ -4,9 +4,9 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="dedreira-awesomecalculator", # Replace with your own username
+    name="cene0187-awesomecalculator", # Replace with your own username
     version= "1.0.0",
-    author="Daniel Edreira",
+    author="Daniel Edreira, Cosmin Ene not really",
     author_email="dedreira@github.com",
     description="An awesome calculator package",
     long_description=long_description,
